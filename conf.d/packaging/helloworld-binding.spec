@@ -33,10 +33,6 @@ BuildRequires: pkgconfig(libmicrohttpd) >= 0.9.55
 BuildRequires: pkgconfig(afb-libhelpers)
 
 %description
-n'importe quoi!
-Adela!
-ça va je vais bien
-
 The helloworld agl service gathers two bindings.
 - helloworld-skeleton: Increment a counter
 - helloworld-subscribe-event: Subscribe and get notified whether an event is emited
