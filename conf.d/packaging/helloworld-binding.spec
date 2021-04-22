@@ -35,6 +35,7 @@ BuildRequires: pkgconfig(afb-libhelpers)
 %description
 n'importe quoi!
 Adela!
+ça va je vais bien
 
 The helloworld agl service gathers two bindings.
 - helloworld-skeleton: Increment a counter
